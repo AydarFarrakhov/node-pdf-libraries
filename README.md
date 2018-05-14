@@ -26,6 +26,7 @@ HTML to PDF converter that uses phantomjs
 
 #### Description
 A JavaScript PDF generation library for Node and the browser.
+[pdfmake - simplified API](https://github.com/bpampuch/pdfmake)
 
 #### Pros
 * Doesn't have additional requirements
